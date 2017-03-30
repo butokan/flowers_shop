@@ -1,0 +1,16 @@
+a=[[1,2,3],[4,5,6],[7,8,9]]
+
+b='V'
+c="V"
+if b==c:
+    print("some letters")
+else:
+    print("different")
+e=2
+d=20 if e>5 else 12
+print(d)
+
+if e>15:
+    print(15)
+elif b>7:
+    print(7)
